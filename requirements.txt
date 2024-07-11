@@ -1,0 +1,8 @@
+Flask==1.1.2
+ollama
+flask
+pandas
+matplotlib
+numpy
+openpyxl
+flask-cors
